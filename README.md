@@ -4,7 +4,7 @@ Repositorio de materiales para aprender a crear asistentes inteligentes y sistem
 
 ## Materiales del curso
 
-- [Bienvenida y recorrido general](docs/index.html).
+- [Página principal: tablero de COVID-19 en Boyacá](docs/index.html), que abre el [tablero](docs/proyectos/demo-covid/index.html).
 - [Módulo 1: herramientas, Python y agentes de IA](docs/modulo-01.html): guía interactiva de ocho horas en dos sesiones. La segunda sesión termina con un proyecto de dos horas para analizar datos públicos, crear un tablero HTML y publicarlo en GitHub Pages.
 - [Material de apoyo del módulo 1](modulo-01/README.md) y [ejercicios de Python](modulo-01/ejercicios/).
 - [Sesión complementaria: IA responsable en RAG y agentes](docs/modulo-etica.html), con su [guía de actividades y laboratorios](modulo-etica/README.md).
@@ -55,4 +55,4 @@ La primera ejecución de los ejercicios 1 y 2 descarga los datos públicos de CO
 
 ## Publicar el tablero final
 
-El paso 11 de la guía explica cómo guardar el tablero y sus gráficos en `docs/proyectos/<nombre>/`, subir los cambios a la rama `DEV` de tu fork y seleccionar esa rama y la carpeta `/docs` como fuente de GitHub Pages. La página principal del curso permanece en `docs/index.html`.
+El paso 11 de la guía explica cómo guardar el tablero y sus gráficos en `docs/proyectos/<nombre>/`, subir los cambios a la rama `DEV` de tu fork y seleccionar esa rama y la carpeta `/docs` como fuente de GitHub Pages. La página principal (`docs/index.html`) redirige al tablero de demostración en `docs/proyectos/demo-covid/index.html`.
